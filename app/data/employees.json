@@ -1,0 +1,180 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "skills": ["Python", "React", "AWS", "Machine Learning", "TensorFlow"],
+      "experience_years": 5,
+      "projects": ["E-commerce Platform", "Healthcare Dashboard", "ML Recommendation System"],
+      "availability": "available",
+      "email": "alice.johnson@company.com",
+      "department": "Engineering",
+      "location": "San Francisco"
+    },
+    {
+      "id": 2,
+      "name": "Dr. Sarah Chen",
+      "skills": ["Machine Learning", "TensorFlow", "PyTorch", "Computer Vision", "Healthcare AI"],
+      "experience_years": 6,
+      "projects": ["Medical Diagnosis Platform", "X-ray Analysis System", "Patient Risk Prediction"],
+      "availability": "available",
+      "email": "sarah.chen@company.com",
+      "department": "AI Research",
+      "location": "Boston"
+    },
+    {
+      "id": 3,
+      "name": "Michael Rodriguez",
+      "skills": ["Machine Learning", "scikit-learn", "pandas", "Healthcare Data", "HIPAA Compliance"],
+      "experience_years": 4,
+      "projects": ["Patient Risk Prediction System", "EHR Analytics Platform", "Clinical Decision Support"],
+      "availability": "busy",
+      "email": "michael.rodriguez@company.com",
+      "department": "Healthcare IT",
+      "location": "Chicago"
+    },
+    {
+      "id": 4,
+      "name": "Emma Davis",
+      "skills": ["React Native", "JavaScript", "iOS", "Android", "Firebase"],
+      "experience_years": 3,
+      "projects": ["Mobile Banking App", "Fitness Tracker", "Social Media Platform"],
+      "availability": "available",
+      "email": "emma.davis@company.com",
+      "department": "Mobile Development",
+      "location": "Austin"
+    },
+    {
+      "id": 5,
+      "name": "James Wilson",
+      "skills": ["Docker", "AWS", "Kubernetes", "DevOps", "CI/CD"],
+      "experience_years": 7,
+      "projects": ["Cloud Migration", "Microservices Architecture", "Container Orchestration"],
+      "availability": "available",
+      "email": "james.wilson@company.com",
+      "department": "DevOps",
+      "location": "Seattle"
+    },
+    {
+      "id": 6,
+      "name": "Sophia Kim",
+      "skills": ["Python", "Django", "PostgreSQL", "API Development", "Microservices"],
+      "experience_years": 4,
+      "projects": ["Payment Gateway", "User Management System", "API Marketplace"],
+      "availability": "available",
+      "email": "sophia.kim@company.com",
+      "department": "Backend Engineering",
+      "location": "New York"
+    },
+    {
+      "id": 7,
+      "name": "David Thompson",
+      "skills": ["Java", "Spring Boot", "Kafka", "Elasticsearch", "Distributed Systems"],
+      "experience_years": 8,
+      "projects": ["Real-time Analytics Platform", "Message Queue System", "Search Engine"],
+      "availability": "busy",
+      "email": "david.thompson@company.com",
+      "department": "Platform Engineering",
+      "location": "San Francisco"
+    },
+    {
+      "id": 8,
+      "name": "Lisa Zhang",
+      "skills": ["React", "TypeScript", "GraphQL", "UI/UX", "Responsive Design"],
+      "experience_years": 3,
+      "projects": ["Admin Dashboard", "Customer Portal", "Design System"],
+      "availability": "available",
+      "email": "lisa.zhang@company.com",
+      "department": "Frontend Engineering",
+      "location": "Los Angeles"
+    },
+    {
+      "id": 9,
+      "name": "Robert Garcia",
+      "skills": ["AWS", "Terraform", "Lambda", "S3", "CloudFormation"],
+      "experience_years": 5,
+      "projects": ["Serverless Architecture", "Cloud Cost Optimization", "Infrastructure Automation"],
+      "availability": "available",
+      "email": "robert.garcia@company.com",
+      "department": "Cloud Engineering",
+      "location": "Miami"
+    },
+    {
+      "id": 10,
+      "name": "Jennifer Lee",
+      "skills": ["Data Science", "Python", "SQL", "Tableau", "Statistical Analysis"],
+      "experience_years": 4,
+      "projects": ["Sales Analytics Dashboard", "Customer Segmentation", "Predictive Modeling"],
+      "availability": "busy",
+      "email": "jennifer.lee@company.com",
+      "department": "Data Science",
+      "location": "Denver"
+    },
+    {
+      "id": 11,
+      "name": "Kevin O'Connor",
+      "skills": ["Node.js", "Express", "MongoDB", "Redis", "WebSocket"],
+      "experience_years": 3,
+      "projects": ["Chat Application", "Real-time Collaboration Tool", "Gaming Backend"],
+      "availability": "available",
+      "email": "kevin.oconnor@company.com",
+      "department": "Backend Engineering",
+      "location": "Portland"
+    },
+    {
+      "id": 12,
+      "name": "Maria Santos",
+      "skills": ["Flutter", "Dart", "Firebase", "Mobile UI", "Cross-platform"],
+      "experience_years": 2,
+      "projects": ["Shopping App", "Travel Planner", "Educational Game"],
+      "availability": "available",
+      "email": "maria.santos@company.com",
+      "department": "Mobile Development",
+      "location": "Phoenix"
+    },
+    {
+      "id": 13,
+      "name": "Andrew Johnson",
+      "skills": ["Cybersecurity", "Penetration Testing", "Network Security", "OWASP", "Security Auditing"],
+      "experience_years": 6,
+      "projects": ["Security Assessment", "Vulnerability Management", "Incident Response"],
+      "availability": "busy",
+      "email": "andrew.johnson@company.com",
+      "department": "Security",
+      "location": "Washington DC"
+    },
+    {
+      "id": 14,
+      "name": "Rachel Brown",
+      "skills": ["Product Management", "Agile", "User Research", "Roadmap Planning", "Stakeholder Management"],
+      "experience_years": 5,
+      "projects": ["Product Launch", "Feature Prioritization", "Market Research"],
+      "availability": "available",
+      "email": "rachel.brown@company.com",
+      "department": "Product",
+      "location": "San Francisco"
+    },
+    {
+      "id": 15,
+      "name": "Chris Martinez",
+      "skills": ["Go", "gRPC", "Microservices", "Performance Optimization", "Concurrency"],
+      "experience_years": 4,
+      "projects": ["High-throughput API", "Distributed Cache", "Performance Monitoring"],
+      "availability": "available",
+      "email": "chris.martinez@company.com",
+      "department": "Backend Engineering",
+      "location": "Austin"
+    },
+    {
+      "id": 16,
+      "name": "Amanda Taylor",
+      "skills": ["QA Engineering", "Test Automation", "Selenium", "API Testing", "Performance Testing"],
+      "experience_years": 3,
+      "projects": ["Test Framework", "Automation Pipeline", "Quality Assurance"],
+      "availability": "available",
+      "email": "amanda.taylor@company.com",
+      "department": "Quality Assurance",
+      "location": "Atlanta"
+    }
+  ]
+}
