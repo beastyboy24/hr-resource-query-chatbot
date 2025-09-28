@@ -12,6 +12,6 @@ requests==2.31.0
 pandas==2.0.3
 
 #new addition
-standard-imghdr>=1.0.0
-altair<5.0.0
-setuptools>=68.0.0
+#standard-imghdr>=1.0.0
+#altair<5.0.0
+#setuptools>=68.0.0
